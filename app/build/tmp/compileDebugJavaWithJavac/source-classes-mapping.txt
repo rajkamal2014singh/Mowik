@@ -1,0 +1,42 @@
+com/example/miwok/BuildConfig.java
+ com.example.miwok.BuildConfig
+com/example/miwok/NumberClickListener.java
+ com.example.miwok.NumberClickListener
+com/example/miwok/PhrasesClickListener.java
+ com.example.miwok.PhrasesClickListener
+com/example/miwok/ColorsClickListener.java
+ com.example.miwok.ColorsClickListener
+com/example/miwok/FamilyClickListener.java
+ com.example.miwok.FamilyClickListener
+com/example/miwok/FamilyMembersActivity.java
+ com.example.miwok.FamilyMembersActivity
+ com.example.miwok.FamilyMembersActivity$1
+ com.example.miwok.FamilyMembersActivity$2
+ com.example.miwok.FamilyMembersActivity$3
+com/example/miwok/Word.java
+ com.example.miwok.Word
+com/example/miwok/WordAdapter.java
+ com.example.miwok.WordAdapter
+com/example/miwok/MainActivity.java
+ com.example.miwok.MainActivity
+ com.example.miwok.MainActivity$1
+ com.example.miwok.MainActivity$2
+ com.example.miwok.MainActivity$3
+ com.example.miwok.MainActivity$4
+com/example/miwok/NumberActivity.java
+ com.example.miwok.NumberActivity
+ com.example.miwok.NumberActivity$1
+ com.example.miwok.NumberActivity$2
+ com.example.miwok.NumberActivity$3
+com/example/miwok/WordAdapterPhrases.java
+ com.example.miwok.WordAdapterPhrases
+com/example/miwok/PhrasesActivity.java
+ com.example.miwok.PhrasesActivity
+ com.example.miwok.PhrasesActivity$1
+ com.example.miwok.PhrasesActivity$2
+ com.example.miwok.PhrasesActivity$3
+com/example/miwok/ColorsActivity.java
+ com.example.miwok.ColorsActivity
+ com.example.miwok.ColorsActivity$1
+ com.example.miwok.ColorsActivity$2
+ com.example.miwok.ColorsActivity$3
